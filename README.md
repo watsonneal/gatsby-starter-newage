@@ -1,6 +1,6 @@
 # gatsby-starter-newage
 
-Gatsby.js V2 starter template based on New age by startbootstrap
+Gatsby.js V4 starter template based on New age by startbootstrap
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
